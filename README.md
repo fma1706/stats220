@@ -6,6 +6,6 @@
 
 * follow me [fma1706](github.com).
 
-* check out my attempt for assignment 1 [stats220]().
+* check out my attempt for assignment 1 [stats220](https://fma1706.github.io/stats220/)
 
 *You won't find anything fancy here because I am still new to Github.*
