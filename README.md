@@ -1,4 +1,4 @@
-*This is my Stats 220 repository.*
+*My name is Fusipongi Manuhaapai and this is my Stats 220 repository.*
 
 **I am one of the students for Stats 220. I will be using this frequently for Stats 220 but mostly for my assignments.**
 
